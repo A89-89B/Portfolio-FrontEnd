@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+.navbar {
+    background-color: black;
+    padding: 0%;
+}
+a.navbar-brand {
+    padding: 7px;
+}
+a.navbar-brand img {
+    padding: 6px;
+}
+.login {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border-color: white;
+    font-size: small;
+    margin: 8px 0px 0px 0px; 
+    padding: 2px 5px; 
+    border-radius: 15%;
+}
+.login:hover {
+    background-color: white;
+    color: black;
+}
+.card {
+    background-color: black;
+    color: white;
+}
+.info {
+    margin-top: 70px;
+    padding: 16px;
+}
+.m {
+    background-color: #B0BEC5;
+}
+.c {
+    margin: 16px 0px 16px 0px; 
+    padding: 16px;
+}
+p {
+    margin-bottom: 0%;
+    color: #B0BEC5;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: #B0BEC5;
+}
